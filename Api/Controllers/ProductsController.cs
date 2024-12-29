@@ -120,7 +120,7 @@ namespace Api.Controllers
         }
     
         //DELETE api/products/5
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteProduct(int id){
             var product=await _context.Products.FindAsync(id);
             if(product==null){

@@ -124,3 +124,4 @@
 /Users/ax958777/Desktop/CRUD APP/Api/Api/bin/Debug/net9.0/Newtonsoft.Json.dll
 /Users/ax958777/Desktop/CRUD APP/Api/Api/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /Users/ax958777/Desktop/CRUD APP/Api/Api/bin/Debug/net9.0/Newtonsoft.Json.Bson.dll
+/Users/ax958777/Desktop/CRUD APP/Api/Api/obj/Debug/net9.0/Api.sourcelink.json
